@@ -46,7 +46,7 @@ export function ProductCard({ product }: ProductCardProps) {
         <p className="mt-1 line-clamp-2 text-xs text-slate-500 dark:text-slate-400">{product.description}</p>
         <p className="mt-2 text-lg font-black text-blue-600 dark:text-blue-400">{formatPrice(product.price)}</p>
 
-        <div className="mt-auto flex items-center justify-between gap-2 pt-3">
+        <div className="mt-auto flex flex-wrap items-center justify-between gap-2 pt-3">
           <QuantitySelector compact value={quantity} onChange={setQuantity} />
           <button
             type="button"
