@@ -1,15 +1,8 @@
 [
-  { "id": "gaseosas", "name": "Gaseosas", "emoji": "🥤" },
-  { "id": "aguas", "name": "Aguas", "emoji": "💧" },
-  { "id": "jugos", "name": "Jugos", "emoji": "🧃" },
+  { "id": "bebidas", "name": "Bebidas", "emoji": "🥤" },
   { "id": "energizantes", "name": "Energizantes", "emoji": "⚡" },
   { "id": "cervezas", "name": "Cervezas", "emoji": "🍺" },
   { "id": "vinos", "name": "Vinos", "emoji": "🍷" },
-  { "id": "snacks", "name": "Snacks", "emoji": "🍟" },
-  { "id": "golosinas", "name": "Golosinas", "emoji": "🍬" },
-  { "id": "chocolates", "name": "Chocolates", "emoji": "🍫" },
-  { "id": "galletitas", "name": "Galletitas", "emoji": "🍪" },
-  { "id": "helados", "name": "Helados", "emoji": "🍦" },
-  { "id": "cigarrillos", "name": "Cigarrillos", "emoji": "🚬" },
-  { "id": "varios", "name": "Artículos varios", "emoji": "🛒" }
+  { "id": "snacks", "name": "Snacks Golosinas y Chocolates", "emoji": "🍟🍬🍫" },
+  { "id": "cigarrillos", "name": "Cigarrillos", "emoji": "🚬" }
 ]

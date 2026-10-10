@@ -51,7 +51,7 @@ Ejemplo:
   "name": "Coca Cola 500ml",
   "description": "Botella descartable",
   "price": 1800,
-  "category": "Gaseosas",
+  "category": "Bebidas",
   "image": "/images/coca500.jpg",
   "available": true,
   "featured": true,
