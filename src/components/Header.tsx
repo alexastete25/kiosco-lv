@@ -17,8 +17,12 @@ export function Header({ store, search, onSearch, onOpenCart }: HeaderProps) {
       <div className="mx-auto max-w-6xl px-4 py-3">
         <div className="flex items-center gap-3">
           <div className="flex min-w-0 items-center gap-2">
-            <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl bg-gradient-to-br from-blue-600 to-violet-600 text-lg font-black text-white shadow-lg shadow-blue-500/30">
-              K
+            <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl shadow-lg shadow-blue-500/30">
+             <img
+              src="/images/placeholder2.svg"
+              alt="Logo LV Azul"
+              className="h-11 w-11 rounded-2xl object-cover"
+              />
             </div>
             <div className="min-w-0">
               <h1 className="truncate text-base font-extrabold tracking-tight text-slate-900 dark:text-white">
