@@ -132,7 +132,7 @@ export function CartDrawer({ open, onClose, store }: CartDrawerProps) {
                     alt=""
                     className="h-16 w-16 rounded-xl object-cover"
                     onError={(event) => {
-                      event.currentTarget.src = '/images/placeholder2.svg
+                      event.currentTarget.src = '/images/placeholder2.svg'
                     }}
                   />
                   <div className="min-w-0 flex-1">

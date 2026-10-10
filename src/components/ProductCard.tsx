@@ -27,7 +27,7 @@ export function ProductCard({ product }: ProductCardProps) {
           alt={product.name}
           className="aspect-square w-full object-cover transition duration-500 group-hover:scale-105"
           onError={(event) => {
-            event.currentTarget.src = '/images/placeholder2.svg
+            event.currentTarget.src = '/images/placeholder2.svg'
           }}
         />
         {product.badge && (
