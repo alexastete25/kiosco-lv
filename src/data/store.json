@@ -1,0 +1,29 @@
+{
+  "storeName": "Kiosco.lv",
+  "tagline": "Tu kiosco digital, rápido y cerca",
+  "whatsapp": "5491165867194",
+  "address": "Dirección del local",
+  "deliveryCost": 1000,
+  "minimumOrder": 0,
+  "businessHours": "Lunes a Domingo 08:00 a 23:00",
+  "banners": [
+    {
+      "id": 1,
+      "title": "Ofertas de la semana",
+      "subtitle": "Gaseosas, snacks y golosinas con descuento",
+      "badge": "PROMO"
+    },
+    {
+      "id": 2,
+      "title": "Delivery en el barrio",
+      "subtitle": "Pedí por WhatsApp y recibí en tu casa",
+      "badge": "ENVÍO"
+    },
+    {
+      "id": 3,
+      "title": "Retiro en el local",
+      "subtitle": "Tu pedido listo cuando llegues",
+      "badge": "RETIRO"
+    }
+  ]
+}
