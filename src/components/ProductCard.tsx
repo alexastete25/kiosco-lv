@@ -53,7 +53,7 @@ export function ProductCard({ product }: ProductCardProps) {
             onClick={() => addToCart(product, quantity)}
             className="inline-flex items-center justify-center gap-1 rounded-2xl bg-gradient-to-r from-blue-600 to-violet-600 px-3 py-2 text-xs font-bold text-white shadow-md shadow-blue-500/20 transition hover:brightness-110"
           >
-            <ShoppingBag className="h-4 w-4" />
+            <ShoppingBag className="h-5 w-5 sm:h-4 sm:w-4" />
             Agregar
           </button>
         </div>
